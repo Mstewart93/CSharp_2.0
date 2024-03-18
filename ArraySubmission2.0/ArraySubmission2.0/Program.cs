@@ -16,6 +16,7 @@ namespace Arraysubmission
     {
         static void Main()
         {
+            //Create a one-dimensional Array of strings. Ask the user to select an index of the Array and then display the string at that index on the screen.
 
         string [] animal = ["chicken", "dog", "cat", "duck",]; //decare the string array
         Console.WriteLine("Pick a number 0-3 to see what animal matches your personality"); //ask for user input
@@ -30,9 +31,44 @@ namespace Arraysubmission
             
         }
 
+        //Create a one-dimensional Array of integers. Ask the user to select an index of the Array and then display the integer at that index on the screen. include error message
+        int [] numbers = [1995,1993,1994,1995,1992];
+        Console.WriteLine("Please Pick a number 0-4");
+        int userNumber = Convert.ToInt32(Console.ReadLine());
+        if (userNumber <= numbers.Length)
+        {
+            Console.WriteLine(numbers[userNumber]);
+
+        }
+
+        else {
+            Console.WriteLine("Error Please pick a number 0-4");
+        }
 
 
 
+        //Create a list of strings. Ask the user to select an index of the list and then display the content at that index on the screen.
+
+        List<string> stringlist = new List<string>();
+            stringlist.Add("Apple");
+            stringlist.Add("Fruit");
+            stringlist.Add("Raspberry");
+            stringlist.Add("Strawberry");
+            stringlist.Add("Grape");
+            stringlist.Add("Peach");
+            stringlist.Add("Cherry");
+
+        Console.WriteLine("Please Pick a number 0-6");
+        int userNumber = Convert.ToInt32(Console.ReadLine());
+        if (userNumber <= stringlist.Length)
+        {
+            Console.WriteLine(stringlist[userNumber]);
+
+        }
+
+        else {
+            Console.WriteLine("Error Please pick a number 0-6");
+        }
 
         }
     }
