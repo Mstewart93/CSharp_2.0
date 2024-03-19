@@ -59,10 +59,10 @@ namespace Arraysubmission
             stringlist.Add("Cherry");
 
         Console.WriteLine("Please Pick a number 0-6");
-        int userNumber = Convert.ToInt32(Console.ReadLine());
-        if (userNumber <= stringlist.Length)
+        int userPick = Convert.ToInt32(Console.ReadLine());
+        if (usePick <= stringlist.Length)
         {
-            Console.WriteLine(stringlist[userNumber]);
+            Console.WriteLine(stringlist[userPick]);
 
         }
 
