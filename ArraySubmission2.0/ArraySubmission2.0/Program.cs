@@ -60,7 +60,7 @@ namespace Arraysubmission
 
         Console.WriteLine("Please Pick a number 0-6");
         int userPick = Convert.ToInt32(Console.ReadLine());
-        if (usePick <= stringlist.Length)
+        if (userPick <= stringlist.Count)
         {
             Console.WriteLine(stringlist[userPick]);
 
