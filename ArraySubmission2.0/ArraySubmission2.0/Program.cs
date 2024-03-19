@@ -21,7 +21,7 @@ namespace Arraysubmission
         string [] animal = ["chicken", "dog", "cat", "duck",]; //decare the string array
         Console.WriteLine("Pick a number 0-3 to see what animal matches your personality"); //ask for user input
         int userInput = Convert.ToInt32(Console.ReadLine()); //get user input and convert it to an integer
-        if (userInput <= animal.Length) //if else to try and catch errors
+        if (userInput < animal.Length) //if else to try and catch errors
         {
             Console.WriteLine(animal[userInput]); //use user input inplace of the index number if it is less than or equal to animal.length
         }
@@ -35,7 +35,7 @@ namespace Arraysubmission
         int [] numbers = [1995,1993,1994,1995,1992];
         Console.WriteLine("Please Pick a number 0-4");
         int userNumber = Convert.ToInt32(Console.ReadLine());
-        if (userNumber <= numbers.Length)
+        if (userNumber < numbers.Length)
         {
             Console.WriteLine(numbers[userNumber]);
 
@@ -60,7 +60,7 @@ namespace Arraysubmission
 
         Console.WriteLine("Please Pick a number 0-6");
         int userPick = Convert.ToInt32(Console.ReadLine());
-        if (userPick <= stringlist.Count)
+        if (userPick < stringlist.Count)
         {
             Console.WriteLine(stringlist[userPick]);
 
