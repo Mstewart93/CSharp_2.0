@@ -1,0 +1,15 @@
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/bin/Debug/net8.0/6_Part_Assignment_Try_2
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/bin/Debug/net8.0/6_Part_Assignment_Try_2.deps.json
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/bin/Debug/net8.0/6_Part_Assignment_Try_2.runtimeconfig.json
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/bin/Debug/net8.0/6_Part_Assignment_Try_2.dll
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/bin/Debug/net8.0/6_Part_Assignment_Try_2.pdb
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.AssemblyInfoInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.AssemblyInfo.cs
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.csproj.CoreCompileInputs.cache
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.sourcelink.json
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.dll
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/refint/6_Part_Assignment_Try_2.dll
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.pdb
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/6_Part_Assignment_Try_2.genruntimeconfig.cache
+/Users/melyssastewart/Documents/GitHub/CSharp_2.0/6_Part_Assignment_Try_2/6_Part_Assignment_Try_2/obj/Debug/net8.0/ref/6_Part_Assignment_Try_2.dll

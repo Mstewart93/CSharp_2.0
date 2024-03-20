@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
+using System.IO.Compression;
 using System.Linq;
 using System.Reflection;
 using System.Text;
@@ -88,44 +89,36 @@ namespace Arraysubmission
 
             //Assignment Part 5
 
-            string[] color = ["red","orange","yellow","green","blue","purple","black","brown","gray","grey", "yellow"];
-                Console.WriteLine("Please enter your favorite color bellow:  ");
-                    string usercolor = Console.ReadLine();
-                    for (int n = 0; n < str1.Length; n++)
-                        {
-                        if (color  = usercolor);
-                        Console.WriteLine("Your Color is on the list" +usercolor.IndexOf(usercolor))
-                        
-                        else 
-                        Console.WriteLine("Your color is not on the lsit")
-                        };
+            string[] color;
+            color = ["red","orange","yellow","green","blue","purple","black","brown","gray","grey", "yellow"];
+            Console.WriteLine("Please enter your favorite color bellow:  ");
+            string usercolor = Console.ReadLine();
+            for (int n = 0; n < str1.Length; n++)
+                {
+                    if (color[n]  == usercolor)
+                    {Console.WriteLine("Your Color is on the list" +usercolor.IndexOf(usercolor));
+                    }
+
+                    else 
+                    {Console.WriteLine("Your color is not on the lsit");
+                    }
+                }
                                     
 
-                                //Assignment Part 6
-                                foreach (string z in color)
+            //Assignment Part 6
+            foreach (string z in color)
 
-                                {
-                                    if (color.Equals(color[]) = true)
-                                    
-                                    {Console.WriteLine(color[z] + "This item is not Unique");}
+                {
+                    if (z == z)
+                    
+                    {Console.WriteLine(z + "This item is not Unique");}
 
-                                    else
-                                    Console.WriteLine(color[z]+ "This item is Unique")
-                                }
+                    else
+                    {Console.WriteLine(z+ "This item is Unique");}
+                }
 
-                                Console.ReadLine();
+            Console.ReadLine();
             }
         }
     }
  }
-
-
-//Unfortunately, I'm not able to get this to run. Many errors are preventing this from running, as I'm seeing 36 errors in the Error List. The bulk of these look like they're either syntax errors or typos when referencing variables. For example, on line 105 you have the following:
-
-//{Console.WriteLine(color[z] + "This item is not Unique");}
-
-//Because this is in a foreach loop you can't put color[z], instead you can just use z. Here's what I mean:
-
-//{Console.WriteLine(z + "This item is not Unique");}
-
-//Please work on all of the errors that are preventing this from running. Don't forget to test your application to make sure it's working without any errors. Feel free to reach out to us if you have any questions or need any help resolving these errors.
