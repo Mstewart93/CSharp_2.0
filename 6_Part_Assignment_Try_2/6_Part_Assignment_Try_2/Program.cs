@@ -4,6 +4,8 @@ using System.ComponentModel.Design;
 using System.IO.Compression;
 using System.Linq;
 using System.Reflection;
+using System.Runtime.InteropServices.Marshalling;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,18 +16,15 @@ namespace Arraysubmission
         static void Main()
         {
             // Assignment part one
-            string []str1;
-            str1 = ["Dogs","Chickens","Cats","Ducks","Cows"];
-            Console.WriteLine("Please enter your favorite animal bellow:  ");
+
+            List<string> animalList = ["dogs", "chickens", "cats", "ducks", "cows"];
+            Console.WriteLine("Please Enter your favorite animal bellow:  ");
             string useranimal = Console.ReadLine();
-            for (int i = 0;i < str1.Length; i++)
-{
-            Console.WriteLine(str1[i]); 
-}
-            for (int i = 0;i < str1.Length; i++)
-            {
-                Console.WriteLine(str1[i]);
-            }
+            for (int i = 0; i < animalList.Count; i++)
+                { Console.WriteLine(animalList[i]);};
+
+
+
 
             //Assignment Part 2 
                 
@@ -36,7 +35,7 @@ namespace Arraysubmission
             //Console.WriteLine()"Hello! Welcome";
             //Since x will always equal 1 this will run constantly we need to change it to one that has an end
 
-            int x = 5;
+            int x = 1;
             while (x > 0)
             {
                 Console.WriteLine("Please Enter Your name ");
@@ -58,10 +57,10 @@ namespace Arraysubmission
                 }  
             int k = 1;     
             while (k <= 10 )
-                            {Console.WriteLine("This should post 10 times however");
+              {Console.WriteLine("This should post 10 times however");
                             
-                              k++;
-                            }
+                 k++;
+              }
                        
            
            
@@ -97,7 +96,7 @@ namespace Arraysubmission
             color = ["red","orange","yellow","green","blue","purple","black","brown","gray","grey", "yellow"];
             Console.WriteLine("Please enter your favorite color bellow:  ");
             string usercolor = Console.ReadLine();
-            for (int n = 0; n < str1.Length; n++)
+            for (int n = 0; n < color.Length; n++)
                 {
                     if (color[n]  == usercolor)
                     {Console.WriteLine("Your Color is on the list" + n);
@@ -105,8 +104,8 @@ namespace Arraysubmission
                     
                     else if(!color.Contains(usercolor))  
                     {
-                        Console.WriteLine( "Your Animal is not on the list");
-                        break; // This will exit the for-loop, keeping the message from printing repeatedly
+                        Console.WriteLine( "Your Color is not on the list");
+                       
                     }
                 }
                                     
@@ -115,6 +114,19 @@ namespace Arraysubmission
             //Step one check if the item is in the empty list
             //step two print it is unique then add to  the empty list 
             //step three continye till you reach the duplicates and it will say duplicate
+            List<string> booklist = ["Harry Potter", "Lord of the Rings","Hobbit","Howls Moving Castle", "Harry Potter"];
+            List<string> duplicate = [];
+            foreach (string z in booklist) 
+    
+                {
+                    if (duplicate.Contains(z)) // loop that will compare itehm to eachother 
+                    {Console.WriteLine("This Item is unique");
+                    duplicate.Add(z);}
+                    else 
+                    {Console.WriteLine("This book entry is a duplicate");};
+                }
+
+
             }
         }
     }
