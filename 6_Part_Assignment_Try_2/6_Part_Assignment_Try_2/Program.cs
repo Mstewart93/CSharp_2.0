@@ -18,13 +18,13 @@ namespace Arraysubmission
             str1 = ["Dogs","Chickens","Cats","Ducks","Cows"];
             Console.WriteLine("Please enter your favorite animal bellow:  ");
             string useranimal = Console.ReadLine();
-            for (int i = 0; i < str1.Length; i++)
-                {
-                str1[i] = str1[i] + useranimal;
-                }
-            for (int i = 0;i < useranimal.Length; i++)
+            for (int i = 0;i < str1.Length; i++)
+{
+            Console.WriteLine(str1[i]); 
+}
+            for (int i = 0;i < str1.Length; i++)
             {
-                Console.WriteLine(str1 + useranimal);
+                Console.WriteLine(str1[i]);
             }
 
             //Assignment Part 2 
@@ -58,8 +58,11 @@ namespace Arraysubmission
                 }  
             int k = 1;     
             while (k <= 10 )
-                            {Console.WriteLine("This should post 10 times however");}
-                        k++;
+                            {Console.WriteLine("This should post 10 times however");
+                            
+                              k++;
+                            }
+                       
            
            
             //Assignment Part 4 
@@ -71,15 +74,16 @@ namespace Arraysubmission
             string userinput = Console.ReadLine();
             string lowerUser = userinput.ToLower();
             
-            for (int m = 0; m>animalStr.Length; m++)
+            for (int m = 0; m<animalStr.Length; m++)
                 {
                     if (animalStr[m] == userinput)
-                    {Console.WriteLine("Your Favorite Animal is on the list!" + userinput.IndexOf(userinput));
+                    {Console.WriteLine("Your Favorite Animal is on the list!" + m);
                     }
                 
-                    else
+                    else if(!animalStr.Contains(lowerUser)) 
                     {
-                Console.WriteLine( "Your Animal is not on the list");
+                        Console.WriteLine( "Your Animal is not on the list");
+                        break; 
                     }
                 }
                 
@@ -96,28 +100,21 @@ namespace Arraysubmission
             for (int n = 0; n < str1.Length; n++)
                 {
                     if (color[n]  == usercolor)
-                    {Console.WriteLine("Your Color is on the list" +usercolor.IndexOf(usercolor));
+                    {Console.WriteLine("Your Color is on the list" + n);
                     }
-
-                    else 
-                    {Console.WriteLine("Your color is not on the lsit");
+                    
+                    else if(!color.Contains(usercolor))  
+                    {
+                        Console.WriteLine( "Your Animal is not on the list");
+                        break; // This will exit the for-loop, keeping the message from printing repeatedly
                     }
                 }
                                     
 
             //Assignment Part 6
-            foreach (string z in color)
-
-                {
-                    if (z == z)
-                    
-                    {Console.WriteLine(z + "This item is not Unique");}
-
-                    else
-                    {Console.WriteLine(z+ "This item is Unique");}
-                }
-
-            Console.ReadLine();
+            //Step one check if the item is in the empty list
+            //step two print it is unique then add to  the empty list 
+            //step three continye till you reach the duplicates and it will say duplicate
             }
         }
     }
