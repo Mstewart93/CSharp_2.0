@@ -1,2 +1,2 @@
 # CSharp_2.0
- After running into several roadblocks I decided the best thing to do was to start over from scratch and rebuild my learning.
+ A journal of my experimentation and learning during my C# journey. Here you will find a variety of small experimentations, notes, as well as a few completed projects. 
