@@ -111,9 +111,6 @@ namespace Arraysubmission
                                     
 
             //Assignment Part 6
-            //Step one check if the item is in the empty list
-            //step two print it is unique then add to  the empty list 
-            //step three continye till you reach the duplicates and it will say duplicate
             List<string> booklist = ["Harry Potter", "Lord of the Rings","Hobbit","Howls Moving Castle", "Harry Potter"];
             List<string> duplicate = [];
             foreach (string z in booklist) 
