@@ -20,4 +20,5 @@ foreach (var x in numberList) //start a loop that will go through all the values
         //there is an error, and prompt user input again to get a valid input. Then the user input will be requested
         //for all remaining numbers in the list. 
     }
+ Console.WriteLine("Progam has emerged from try/catch block. Please continue");
 }
