@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\bin\Debug\net8.0\Strings_Integers.exe
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\bin\Debug\net8.0\Strings_Integers.deps.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\bin\Debug\net8.0\Strings_Integers.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\bin\Debug\net8.0\Strings_Integers.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\bin\Debug\net8.0\Strings_Integers.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.sourcelink.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\refint\Strings_Integers.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\Strings_Integers.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Strings_Integers\obj\Debug\net8.0\ref\Strings_Integers.dll
