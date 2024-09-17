@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,21 +9,21 @@ namespace Calling_Method_Submission
 {
     public class Operation
     {
-   
-
-        public addUser(int a)
+        public int userinput;
+        public void addUser()
         {
-            Console.WriteLine(a + 6);
+            
+            Console.WriteLine(userinput + 6);
         }
 
-        public subtractingUser(int a)
+        public void subtractingUser()
         {
-            Console.WriteLine(a - 7);
+            Console.WriteLine(userinput - 7);
         }
 
-        public multiplicationOfUser(int a)
+        public void  multiplicationOfUser(int a)
         {
-            Console.WriteLine(a * 8);
+            Console.WriteLine(userinput * 8);
         }
         }
     }

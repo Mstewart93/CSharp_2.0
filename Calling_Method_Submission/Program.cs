@@ -22,10 +22,11 @@ namespace Calling_Method_Submission
             string numberInput = Console.ReadLine(); //collect user input
             int userinput = Convert.ToInt32(numberInput); // convert user input into an integer
 
+            Operation operation = new Operation();
 
-            addition(userinput);
-            subtractingUser(userinput);
-            mulitplicationOfUser(userinput);
+            Operation.addUser(userinput);
+            Operation.subtractingUser(userinput);
+            Operation.multiplicationOfUser(userinput);
 
 
         }

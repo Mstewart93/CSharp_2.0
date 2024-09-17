@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Calling_Method_Submission\obj\Debug\net8.0\Calling_Method_Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Calling_Method_Submission\obj\Debug\net8.0\Calling_Method_Submission.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Calling_Method_Submission\obj\Debug\net8.0\Calling_Method_Submission.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Calling_Method_Submission\obj\Debug\net8.0\Calling_Method_Submission.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Calling_Method_Submission\obj\Debug\net8.0\Calling_Method_Submission.sourcelink.json

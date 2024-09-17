@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calling_Method_Submission")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32e450ba1955baf7a28147ad3eea8f48f4f32407")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dda3bd602eb0a3c4cf690458f511e879d2faf080")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calling_Method_Submission")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calling_Method_Submission")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -51,12 +51,12 @@ namespace Arraysubmission
             //A loop where the comparison that’s used to determine whether to continue iterating the loop is a “<” operator.
             //Add another loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator.
 
-            for (int j = 0; j < 10; j++)
+            for (int j = 0; j < 9; j++)
             {
                 Console.WriteLine("Hello, this should post 9 times :)");
             }
-            int k = 1;
-            while (k <= 10)
+            int k = 0;
+            while (k <= 9)
             { Console.WriteLine("This should post 10 times however");
 
                 k++;
@@ -111,19 +111,22 @@ namespace Arraysubmission
 
 
                 //Assignment Part 6
-                List<string> booklist = new List<string>()["Harry Potter", "Lord of the Rings", "Hobbit", "Howls Moving Castle", "Harry Potter"];
-                List<string> duplicate = new List<string>()[];
+                List<string> booklist = new List<string>() { "Harry Potter", "Lord of the Rings", "Hobbit", "Howls Moving Castle", "Harry Potter" };
+                List<string> duplicate = new List<string>() { };
                 foreach (string z in booklist)
 
                 {
-                    if (duplicate.Contains(z)) // loop that will compare itehm to eachother 
-                        Console.WriteLine("This Item is unique");
-                        duplicate.Add(z); }
+                    if  (booklist.Contains(z)) // loop that will compare itehm to eachother 
+                    { Console.WriteLine(z + "Is a duplicate" );
+                      duplicate.Add(z); }
                     else
-                    Console.WriteLine("This book entry is a duplicate");
+
+                    {
+                     Console.WriteLine(z + "is Unique"); }
+                
             }
         }
             }
         }
     }
- }
+ 
