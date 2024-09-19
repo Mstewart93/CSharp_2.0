@@ -116,16 +116,22 @@ namespace Arraysubmission
                 foreach (string z in booklist)
 
                 {
-                    if  (booklist.Contains(z)) // loop that will compare itehm to eachother 
-                    { Console.WriteLine(z + "Is a duplicate" );
-                      duplicate.Add(z); }
-                    else
-
+                    if  (duplicate.Contains(z)) // loop that will compare itehm to eachother 
                     {
-                     Console.WriteLine(z + "is Unique"); }
-                
+                     duplicate.Add(z);
+                     Console.WriteLine(z + "Is a duplicate");
+                    }
+                    else if ( !duplicate.Contains(z))
+                    duplicate.Add(z);
+                    { Console.WriteLine(z + "is Unique"); }
+
+                   
+
+
+
+
             }
-        }
+            }
             }
         }
     }
