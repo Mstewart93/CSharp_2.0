@@ -8,6 +8,9 @@ namespace Main_Method_Submission
 {
     public class mathOperation
     {
+        //operation.Addition(userInput);
+          //  Console.Readline();
+         
             public  mathOperation (int a)
             {
                 Console.WriteLine(a + 6);

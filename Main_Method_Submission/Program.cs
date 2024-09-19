@@ -1,4 +1,5 @@
 ﻿
+using Main_Method_Submission;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +17,7 @@ namespace Calling_Method_Submission
             Console.WriteLine("Please enter a number"); //request user input
             string numberInput = Console.ReadLine(); //collect user input
             int a = Convert.ToInt32(numberInput); // convert user input into an integer
-            
+            mathOperation mathOperation = new mathOperation();
 
              mathOperation(a); // call method userOperation passing a through the method 
 
@@ -26,7 +27,7 @@ namespace Calling_Method_Submission
 
             userOperation(b); // call the method also named userOperation passing b through it.
 
-            Console.WriteLine("Please enter a number word such as Two, or Three"):
+            Console.WriteLine("Please enter a number word such as Two, or Three");
             string numberInput3 = Console.ReadLine();
             string c = numberInput3.ToLower();
 
