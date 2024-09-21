@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Class_Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A68B14-F90A-489F-8D04-C0F305728E7D}|Method_Class_Submission.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\method_class_submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A68B14-F90A-489F-8D04-C0F305728E7D}|Method_Class_Submission.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A68B14-F90A-489F-8D04-C0F305728E7D}|Method_Class_Submission.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\method_class_submission\\operationhold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A68B14-F90A-489F-8D04-C0F305728E7D}|Method_Class_Submission.csproj|solutionrelative:operationhold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationHold.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Class_Submission\\OperationHold.cs",
+              "RelativeDocumentMoniker": "OperationHold.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Class_Submission\\OperationHold.cs",
+              "RelativeToolTip": "OperationHold.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:47:33.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Class_Submission\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Class_Submission\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwPRYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:46:11.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

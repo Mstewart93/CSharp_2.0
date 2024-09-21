@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Method_Class_Submission/1.0.0": {
+        "runtime": {
+          "Method_Class_Submission.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method_Class_Submission/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
