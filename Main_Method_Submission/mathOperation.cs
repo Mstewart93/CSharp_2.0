@@ -11,17 +11,17 @@ namespace Main_Method_Submission
         //operation.Addition(userInput);
           //  Console.Readline();
          
-            public  mathOperation (int a)
+            public  int mathOperation (int a)
             {
                 Console.WriteLine(a + 6);
             }
 
-            public mathOperation (int b)
+            public int mathOperation (int b)
             {
                 Console.WriteLine(b * 34);
             }
 
-            public mathOperation(int c)
+            public int  mathOperation(int c)
             {
                 decimal d = Convert.ToInt32(c);
                 Console.WriteLine(d / 24);

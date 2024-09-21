@@ -25,13 +25,13 @@ namespace Calling_Method_Submission
             string numberInput2 = Console.ReadLine();
             decimal b = decimal.Parse(numberInput2);
 
-            userOperation(b); // call the method also named userOperation passing b through it.
+            mathOperation(b); // call the method also named userOperation passing b through it.
 
             Console.WriteLine("Please enter a number word such as Two, or Three");
             string numberInput3 = Console.ReadLine();
             string c = numberInput3.ToLower();
 
-            userOperation(c); //Call the method also name userOperatioon passing c through it. 
+            mathOperation(c); //Call the method also name userOperatioon passing c through it. 
 
             
 
