@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\bin\Debug\net8.0\Class_Submission_Assignment.exe
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\bin\Debug\net8.0\Class_Submission_Assignment.deps.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\bin\Debug\net8.0\Class_Submission_Assignment.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\bin\Debug\net8.0\Class_Submission_Assignment.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\bin\Debug\net8.0\Class_Submission_Assignment.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.sourcelink.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\refint\Class_Submission_Assignment.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\Class_Submission_Assignment.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Class_Submission_Assignment\obj\Debug\net8.0\ref\Class_Submission_Assignment.dll
