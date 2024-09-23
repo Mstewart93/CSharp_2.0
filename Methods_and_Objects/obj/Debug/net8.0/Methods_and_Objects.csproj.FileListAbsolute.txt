@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\bin\Debug\net8.0\Methods_and_Objects.exe
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\bin\Debug\net8.0\Methods_and_Objects.deps.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\bin\Debug\net8.0\Methods_and_Objects.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\bin\Debug\net8.0\Methods_and_Objects.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\bin\Debug\net8.0\Methods_and_Objects.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.sourcelink.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\refint\Methods_and_Objects.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\Methods_and_Objects.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Methods_and_Objects\obj\Debug\net8.0\ref\Methods_and_Objects.dll
