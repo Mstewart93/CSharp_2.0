@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\bin\Debug\net8.0\Abstract_Class.exe
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\bin\Debug\net8.0\Abstract_Class.deps.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\bin\Debug\net8.0\Abstract_Class.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\bin\Debug\net8.0\Abstract_Class.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\bin\Debug\net8.0\Abstract_Class.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.sourcelink.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\refint\Abstract_Class.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\Abstract_Class.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Abstract_Class\obj\Debug\net8.0\ref\Abstract_Class.dll
