@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Overload_Operators_Submission\obj\Debug\net8.0\Overload_Operators_Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Overload_Operators_Submission\obj\Debug\net8.0\Overload_Operators_Submission.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Overload_Operators_Submission\obj\Debug\net8.0\Overload_Operators_Submission.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Overload_Operators_Submission\obj\Debug\net8.0\Overload_Operators_Submission.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\Overload_Operators_Submission\obj\Debug\net8.0\Overload_Operators_Submission.sourcelink.json
