@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Submission_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCBC9E6E-B4FA-4791-97BC-5B95696DFEBA}|Method_Submission_2.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\method_submission_2\\integeroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCBC9E6E-B4FA-4791-97BC-5B95696DFEBA}|Method_Submission_2.csproj|solutionrelative:integeroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCBC9E6E-B4FA-4791-97BC-5B95696DFEBA}|Method_Submission_2.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\method_submission_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCBC9E6E-B4FA-4791-97BC-5B95696DFEBA}|Method_Submission_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBC9E6E-B4FA-4791-97BC-5B95696DFEBA}|Method_Submission_2.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\method_submission_2\\integeroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBC9E6E-B4FA-4791-97BC-5B95696DFEBA}|Method_Submission_2.csproj|solutionrelative:integeroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IntegerOperation.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Submission_2\\IntegerOperation.cs",
               "RelativeDocumentMoniker": "IntegerOperation.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\Method_Submission_2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
