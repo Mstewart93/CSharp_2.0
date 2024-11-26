@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TwentyOneSubmissionAssignment
+{
+    public  class Dealer
+    {
+        public string Name { get; set; }
+        public string Deck {  get; set; }
+
+        public int Balance { get; set; }
+
+        public void Deal(List<Card> Hand)
+        {
+            Hand.Add(Deck.Cards.First());
+            Console.WriteLine(Deck.Cards.First).toString() + "\n");
+            Deck.Cards.RemoveAt(0);
+        }
+        
+        
+    }
+}
