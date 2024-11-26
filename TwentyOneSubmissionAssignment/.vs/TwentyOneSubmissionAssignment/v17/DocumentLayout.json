@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\twentyonesubmissionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48118019-5A2E-4A97-8F2B-684EAE762A2E}|TwentyOneSubmissionAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Card.cs",
               "RelativeDocumentMoniker": "Card.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Card.cs",
               "RelativeToolTip": "Card.cs",
-              "ViewState": "AgIAAAgAAACAZWZmZmYkwBEAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAABA/v////8XwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T00:05:27.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TwentyOneRules.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\TwentyOneRules.cs",
               "RelativeDocumentMoniker": "TwentyOneRules.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "TwentyOneRules.cs",
               "ViewState": "AgIAAFQAAAAAOTMzMzMZwFsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T00:13:26.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T00:13:26.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "Game.cs",
               "ViewState": "AgIAAAkAAACgzMzMzMwkwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T11:45:43.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T11:45:43.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TwentyOneDealer.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\TwentyOneDealer.cs",
               "RelativeDocumentMoniker": "TwentyOneDealer.cs",
@@ -93,38 +91,37 @@
               "RelativeToolTip": "TwentyOneDealer.cs",
               "ViewState": "AgIAAAIAAADczMzMzMwowAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T11:42:33.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T11:42:33.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dealer.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Dealer.cs",
               "RelativeDocumentMoniker": "Dealer.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Dealer.cs",
               "RelativeToolTip": "Dealer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAABIPRMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAACgy8zMzMwiwBcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T11:38:49.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "TwentyOneGame.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\TwentyOneGame.cs",
               "RelativeToolTip": "TwentyOneGame.cs",
-              "ViewState": "AgIAADoAAAAAyf///78twEIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAyf///78twEQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T11:34:07.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -132,18 +129,17 @@
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAAcAAACAMjMzMzMLwBQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T00:38:18.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T00:38:18.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TwentyOneSubmissionAssignment\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAABAy8zMzMwUwCkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAABiPRYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T00:25:33.763Z",
               "EditorCaption": ""

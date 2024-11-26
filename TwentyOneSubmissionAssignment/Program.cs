@@ -6,13 +6,22 @@ using System.Numerics;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 namespace Method_Submission_2
 {
     public class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
 
         {
+            DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45); // show year, month, day, hour, minute, seconds so 8:32 with 45 seconds on may 23 1995
+            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+
+            TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+            //time stamp on log entry
+            //file.Writline(DateTime.Now);
+            //File.Writline(Card)
+
             //the first thing we want to have happen in our game is a welcome message.
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling my your name.");
             string playerName = Console.ReadLine();

@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.sourcelink.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\bin\Debug\net8.0\DateTimeSubmission.exe
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\bin\Debug\net8.0\DateTimeSubmission.deps.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\bin\Debug\net8.0\DateTimeSubmission.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\bin\Debug\net8.0\DateTimeSubmission.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\bin\Debug\net8.0\DateTimeSubmission.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\refint\DateTimeSubmission.dll
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.pdb
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\DateTimeSubmission.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\CSharp_2.0\DateTimeSubmission\obj\Debug\net8.0\ref\DateTimeSubmission.dll
