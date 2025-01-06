@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\data\\insureecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\data\\insureecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\data\\insureecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\data\\insureecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\migrations\\20250106123914_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\migrations\\20250106123914_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\carinsurancefix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\carinsurancefix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurancefix\\carinsurancefix\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40F8D9-754C-4518-8D4F-BB96AAAD39EE}|CarInsuranceFix\\CarInsuranceFix.csproj|solutionrelative:carinsurancefix\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +34,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250106123914_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Migrations\\20250106123914_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarInsuranceFix\\Migrations\\20250106123914_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Migrations\\20250106123914_InitialCreate.cs",
+              "RelativeToolTip": "CarInsuranceFix\\Migrations\\20250106123914_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:39:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CarInsuranceFix",
+              "Title": "CarInsuranceFix.csproj",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\CarInsuranceFix.csproj",
               "RelativeDocumentMoniker": "CarInsuranceFix\\CarInsuranceFix.csproj",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\CarInsuranceFix.csproj",
@@ -47,33 +64,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Program.cs",
-              "RelativeDocumentMoniker": "CarInsuranceFix\\Program.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Program.cs",
-              "RelativeToolTip": "CarInsuranceFix\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAMzMzMzMrwAkAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:21:31.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\appsettings.json",
               "RelativeDocumentMoniker": "CarInsuranceFix\\appsettings.json",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\appsettings.json",
               "RelativeToolTip": "CarInsuranceFix\\appsettings.json",
-              "ViewState": "AgIAAAIAAABwZmZmZmYkwAoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwPQoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-26T20:45:20.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsureeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Data\\InsureeContext.cs",
+              "RelativeDocumentMoniker": "CarInsuranceFix\\Data\\InsureeContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Data\\InsureeContext.cs",
+              "RelativeToolTip": "CarInsuranceFix\\Data\\InsureeContext.cs",
+              "ViewState": "AgIAAAgAAAAAmpmZmZkdwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:40:41.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Program.cs",
+              "RelativeDocumentMoniker": "CarInsuranceFix\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Program.cs",
+              "RelativeToolTip": "CarInsuranceFix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T15:21:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Insuree.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Models\\Insuree.cs",
               "RelativeDocumentMoniker": "CarInsuranceFix\\Models\\Insuree.cs",
@@ -82,19 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:22:19.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InsureeContext.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Data\\InsureeContext.cs",
-              "RelativeDocumentMoniker": "CarInsuranceFix\\Data\\InsureeContext.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsuranceFix\\CarInsuranceFix\\Data\\InsureeContext.cs",
-              "RelativeToolTip": "CarInsuranceFix\\Data\\InsureeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T20:40:41.277Z",
               "EditorCaption": ""
             }
           ]
