@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using CarInsuranceFix.Controllers.Data;
+using CarInsuranceFix.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
