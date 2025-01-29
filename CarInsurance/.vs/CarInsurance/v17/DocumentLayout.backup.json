@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAAD1431-4F5C-4DF8-93BC-D4E18BC62DAF}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD1431-4F5C-4DF8-93BC-D4E18BC62DAF}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAAD1431-4F5C-4DF8-93BC-D4E18BC62DAF}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\carinsurance\\carinsurance\\controllers\\data\\insureecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAAD1431-4F5C-4DF8-93BC-D4E18BC62DAF}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\data\\insureecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "InsureesController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
+              "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
+              "ViewState": "AgIAAA8AAACAZmZmZmYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Program.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Program.cs",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\appsettings.json",
               "RelativeDocumentMoniker": "CarInsurance\\appsettings.json",
@@ -54,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InsureeContext.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Controllers\\Data\\InsureeContext.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\Data\\InsureeContext.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Controllers\\Data\\InsureeContext.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\Data\\InsureeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T14:17:25.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Insuree.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Models\\Insuree.cs",
@@ -75,8 +92,7 @@
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:18:57.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T15:18:57.551Z"
             }
           ]
         }
