@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\Data\\InsureeContext.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CarInsurance\\CarInsurance\\Controllers\\Data\\InsureeContext.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\Data\\InsureeContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T14:17:25.308Z",
               "EditorCaption": ""
@@ -75,7 +75,8 @@
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:18:57.551Z"
+              "WhenOpened": "2025-01-10T15:18:57.551Z",
+              "EditorCaption": ""
             }
           ]
         }
