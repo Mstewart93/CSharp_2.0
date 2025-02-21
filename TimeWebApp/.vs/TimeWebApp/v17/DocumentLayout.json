@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1650DF-A3E0-405E-B80B-4A6977D8DCBC}|TimeWebApp\\TimeWebApp.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\timewebapp\\timewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1650DF-A3E0-405E-B80B-4A6977D8DCBC}|TimeWebApp\\TimeWebApp.csproj|solutionrelative:timewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1650DF-A3E0-405E-B80B-4A6977D8DCBC}|TimeWebApp\\TimeWebApp.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\timewebapp\\timewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1650DF-A3E0-405E-B80B-4A6977D8DCBC}|TimeWebApp\\TimeWebApp.csproj|solutionrelative:timewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1650DF-A3E0-405E-B80B-4A6977D8DCBC}|TimeWebApp\\TimeWebApp.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\timewebapp\\timewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1650DF-A3E0-405E-B80B-4A6977D8DCBC}|TimeWebApp\\TimeWebApp.csproj|solutionrelative:timewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\TimeWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TimeWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\TimeWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TimeWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAACAmpmZmZkrwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:36:04.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\TimeWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TimeWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\TimeWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TimeWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAMAAABQMzMzMzMvwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:29:28.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\TimeWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TimeWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\TimeWebApp\\TimeWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TimeWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAD4MjMzMzMbwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:26:26.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

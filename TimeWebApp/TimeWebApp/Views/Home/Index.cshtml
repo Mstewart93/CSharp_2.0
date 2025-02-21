@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "The Current Time is";
+}
+
+<div class="text-center">
+
+    @{
+        var myMessage = "The Current Date and Time is";
+    }
+    <p>@myMessage</p>
+   
+    <div class="date-time">
+        @{
+            @Html.Label(string.Format("{0:F}", System.DateTime.Now))
+        }
+    </div>
+
+
+</div>
