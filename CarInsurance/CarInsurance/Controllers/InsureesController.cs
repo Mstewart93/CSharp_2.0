@@ -7,6 +7,10 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CarInsurance.Controllers.Data;
 using CarInsurance.Models;
+using Humanizer;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
+using System.Net.Sockets;
+using System.Runtime.ConstrainedExecution;
 
 namespace CarInsurance.Controllers
 {
@@ -154,5 +158,52 @@ namespace CarInsurance.Controllers
         {
             return _context.Insurees.Any(e => e.Id == id);
         }
+
+
+        public ActionResult CalculateQuote(Insuree model)
+        {
+            decimal monthlyTotal = 50; // Base amount
+
+            // Age-based calculations
+            if (model.Age <= 18)
+                monthlyTotal += 100;
+            else if (model.Age >= 19 && model.Age <= 25)
+                monthlyTotal += 50;
+            else
+                monthlyTotal += 25;
+
+            // Car year-based calculations
+            if (model.CarYear < 2000)
+                monthlyTotal += 25;
+            else if (model.CarYear > 2015)
+                monthlyTotal += 25;
+
+            // Make and model-based calculations
+            if (model.CarMake == "Porsche")
+            {
+                monthlyTotal += 25;
+                if (model.CarModel == "911 Carrera")
+                    monthlyTotal += 25;
+            }
+
+            // Other factors
+            monthlyTotal += model.SpeedingTickets * 10;
+
+            if (model.DUI)
+                monthlyTotal *= 1.25;
+
+            if (model.CoverageType)
+                monthlyTotal *= 1.5;
+
+            
+
+            return View("Create"); // Redirect to the appropriate view
+        }
+
+       
+           
+        }
+
     }
+
 }
