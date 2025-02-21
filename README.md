@@ -3,4 +3,7 @@
 
  #Projects
  <h3><a href="https://github.com/Mstewart93/CSharp_2.0/tree/main/CarInsurance">Car Insurance</a></h3>
- <p>This project functions as a phonebook for the user. It saves the contact information in a database and allows the user to update and delet previously stored information.</p>
+ <p>This project is a MVC web application that mimics a car insurance website.It takes user input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to veiw all of the quotes.</p>
+
+  <h3><a href="https://github.com/Mstewart93/CSharp_2.0/tree/main/TwentyOneSubmissionAssignment">Twenty One Card Game simulator</a></h3>
+ <p>This project functions as a digital 21 game. It allows users to bet, hit, and stay following the rules of 21. In additon it has a dealer, and ranomd logic to mimic the feel of the real game.</p>
