@@ -11,6 +11,7 @@ using Humanizer;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 using System.Net.Sockets;
 using System.Runtime.ConstrainedExecution;
+using static CarInsurance.Models.Insuree;
 
 namespace CarInsurance.Controllers
 {
@@ -162,12 +163,13 @@ namespace CarInsurance.Controllers
 
         public ActionResult CalculateQuote(Insuree model)
         {
+
             decimal monthlyTotal = 50; // Base amount
 
             // Age-based calculations
-            if (model.Age <= 18)
+            if (model.DateOfBirth <= 18)
                 monthlyTotal += 100;
-            else if (model.Age >= 19 && model.Age <= 25)
+            else if (model.DateOfBirth >= 19 && model.DateOfBirth <= 25)
                 monthlyTotal += 50;
             else
                 monthlyTotal += 25;
@@ -190,20 +192,32 @@ namespace CarInsurance.Controllers
             monthlyTotal += model.SpeedingTickets * 10;
 
             if (model.DUI)
-                monthlyTotal *= 1.25;
+                monthlyTotal *= 1.25m;
 
-            if (model.CoverageType)
-                monthlyTotal *= 1.5;
+            if (!string.IsNullOrEmpty(model.CoverageType))
+                monthlyTotal *= 1.5m;
 
             
 
             return View("Create"); // Redirect to the appropriate view
         }
+        public IActionResult AdminView()
+        {
+            var quotes = _context.Insurees.Select(i => new AdminViewModel
+            {
+                FirstName = i.FirstName,
+                LastName = i.LastName,
+                EmailAddress = i.EmailAddress,  // Make sure this property exists
+                Quote = i.Quote
+            }).ToList();
 
-       
-           
+            return View(quotes);  // ✅ Now it works because it's inside a Controller
         }
-
     }
 
+
 }
+
+    
+
+

@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\codefirstcoding\\codefirstcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|solutionrelative:codefirstcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\codefirstcoding\\codefirstcoding\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|solutionrelative:codefirstcoding\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\codefirstcoding\\codefirstcoding\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|solutionrelative:codefirstcoding\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|c:\\users\\student\\documents\\github\\csharp_2.0\\codefirstcoding\\codefirstcoding\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9D3AC8-7ADA-4718-8896-AC16B1E26ED8}|CodeFirstCoding\\CodeFirstCoding.csproj|solutionrelative:codefirstcoding\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstCoding\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\SchoolContext.cs",
+              "RelativeToolTip": "CodeFirstCoding\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:55:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\Grade.cs",
+              "RelativeDocumentMoniker": "CodeFirstCoding\\Grade.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\Grade.cs",
+              "RelativeToolTip": "CodeFirstCoding\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:53:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstCoding\\Student.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\Student.cs",
+              "RelativeToolTip": "CodeFirstCoding\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:52:58.145Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "CodeFirstCoding\\Program.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CSharp_2.0\\CodeFirstCoding\\CodeFirstCoding\\Program.cs",
               "RelativeToolTip": "CodeFirstCoding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAACcmZmZmZkpwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:52:11.367Z",
               "EditorCaption": ""

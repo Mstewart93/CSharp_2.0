@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CarInsurance.rkk16nmdgs.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-a0C0s8RlKxET/ytiVTtjgmDrofpcGKSVoz8cComy3wQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022a0C0s8RlKxET/ytiVTtjgmDrofpcGKSVoz8cComy3wQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 23:24:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022a0C0s8RlKxET/ytiVTtjgmDrofpcGKSVoz8cComy3wQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 00:07:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsurance/CarInsurance.rkk16nmdgs.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CarInsurance.rkk16nmdgs.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rkk16nmdgs"},{"Name":"integrity","Value":"sha256-a0C0s8RlKxET/ytiVTtjgmDrofpcGKSVoz8cComy3wQ="},{"Name":"label","Value":"_content/CarInsurance/CarInsurance.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022a0C0s8RlKxET/ytiVTtjgmDrofpcGKSVoz8cComy3wQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 23:24:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1130"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022a0C0s8RlKxET/ytiVTtjgmDrofpcGKSVoz8cComy3wQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 00:07:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsurance/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

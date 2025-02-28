@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirstCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8bf5c6aba5a5d2b3402ff7d3c70fbea1580a2af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd8ba1f60dd4b13acb88983b7c0b0dff9ea370c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirstCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirstCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
